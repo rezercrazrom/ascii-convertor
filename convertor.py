@@ -30,7 +30,7 @@ def image_to_ascii(image_path, output_width=180):
 
 
 if __name__ == "__main__":
-    result = image_to_ascii("images (1).jfif")
+    result = image_to_ascii("")
     print(result)
 
     with open("ascii_art.txt", "w", encoding="utf-8") as f:
