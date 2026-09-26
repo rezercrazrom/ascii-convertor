@@ -11,3 +11,5 @@ Take your picture, for my example "images (1).jpeg"(So it would be "result = ima
 Then, run convertor - you receive a .txt file as result of convertation
 
 <img width="1920" height="1002" alt="image" src="https://github.com/user-attachments/assets/fc10d6e1-0f68-4b04-b05a-2a84fb344f6c" />
+
+Also, you can improve quality of ASCII art manually, by adding more code points in "chars=" line
