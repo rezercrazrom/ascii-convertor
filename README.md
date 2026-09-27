@@ -1,5 +1,7 @@
-# ASCII Convertor
-Convert your images into the black-and-white ASCII-like set of code points.
+   <div align="center">
+     <h1>ASCII Convertor</h1>
+     <p><i>Convert your images into the black-and-white ASCII-like set of code points.</i></p>
+   </div>
 
 ## 🎨 How it works
 Just put your image file link in line "result = image_to_ascii("")" between quotes:
